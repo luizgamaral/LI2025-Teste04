@@ -29,7 +29,27 @@
     <title>TesteLI</title>
   </head>
   <body>
+    <main>
+        <div class="form-container">
+        <form action="#" method="post">
+            
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
 
+            <label for="assunto">Assunto</label>
+            <input type="text" id="assunto" name="assunto" required>
+
+            <label for="mensagem">Mensagem</label>
+            <textarea id="mensagem" name="mensagem" rows="5" required></textarea>
+
+            <div class="button-group">
+                <button type="submit" class="btn-primary">Enviar</button>
+                <button type="button" class="btn-secondary">Cancelar</button>
+            </div>
+
+        </form>
+    </div>
+    </main>
     <script src="js/script.js"></script>
   </body>
 </html>
