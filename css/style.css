@@ -1,70 +1,12 @@
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-}
-
-body {
-  display: flex;
-  justify-content: center;
-  min-height: 100vh;
-}
-
 .form-container {
-  background-color: white;
-  padding: 20px;
-  width: 25%;
-  min-width: 300px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px; 
+    width: 25%; 
+    min-width: 320px; 
 }
 
-label {
-  display: block;
-  margin-bottom: 5px;
-  font-size: 14px;
-  font-weight: 500;
-  color: #333;
-}
-
-input[type="email"],
-input[type="text"],
-
-textarea {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 15px;
-  border: 1px solid #ced4da;
-  border-radius: 5px; 
-  font-size: 14px;
-  background-color: #fff;
-}
-
-input:focus,
-textarea:focus {
-  outline: none;
-  border-color: #80bdff;
-}
-
-.button-group {
-  display: flex;
-  justify-content: space-between; 
-  margin-top: 10px;
-}
-
-button {
-  padding: 8px 20px;
-  border: none;
-  border-radius: 5px;
-  color: white;
-  font-size: 14px;
-  cursor: pointer;
-  font-weight: 500;
-}
-
-
-.btn-primary {
-  background-color: #0d6efd;
-}
-
-.btn-secondary {
-  background-color: #6c757d;
+.form-label {
+    font-weight: 500;
+    color: #333;
 }
