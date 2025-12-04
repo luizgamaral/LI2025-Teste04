@@ -1,0 +1,251 @@
+    1  pwd
+    2  cs
+    3  cd
+    4  ls
+    5  clear
+    6  pwd
+    7  dir
+    8  dir -v dvorak
+    9  touch dvorak
+   10  dir
+   11  cd dvorak
+   12  rm dvorak
+   13  dir
+   14  clear
+   15  mkdir -v dir1
+   16  ps
+   17  ls
+   18  clear
+   19  ls
+   20  du -u
+   21  clear
+   22  rm file1
+   23  rm dir1
+   24  ls
+   25  rm dir1
+   26  rmdir dir1
+   27  clear
+   28  ls
+   29  clear
+   30  vi
+   31  clear
+   32  vim teste
+   33  ls
+   34  exit
+   35  sudo apt update
+   36  sudo apt --upgradable
+   37  sudo apt update -y
+   38  apt list --upgradabl
+   39  apt list --upgradable
+   40  sudo apt update -y
+   41  sudo apt upgrade -y
+   42  a
+   43  clear
+   44  sudo apt update
+   45  sudo apt install apache2 -y
+   46  apache2 --version
+   47  sudo systemctl status apache2
+   48  ipconfig
+   49  ip config
+   50  ipconfig -a
+   51  ls
+   52  cat teste
+   53  rm tste
+   54  rm etste
+   55  rm teste
+   56  clear
+   57  ls
+   58  git
+   59  git --version
+   60  git clone https://github.com/luizgamaral/liProjetohtml.git
+   61  ls
+   62  ls -all
+   63  ls
+   64  touch index.html
+   65  ls
+   66  clear
+   67  ls
+   68  cat index.html
+   69  rm index.html
+   70  cd vai
+   71  ls
+   72  ls -a
+   73  cd /vai
+   74  cd /html
+   75  clear
+   76  cd /var/www/html
+   77  l
+   78  cd
+   79  ls
+   80  rm liProjetohtml/
+   81  ls
+   82  clear
+   83  tm liProjetohtml/
+   84  rm liProjetohtml/
+   85  rm liProjetohtml
+   86  ls
+   87  rm -r liProjetohtml/
+   88  ls
+   89  clear
+   90  cd var/www/html
+   91  cd /var/www/html
+   92  ls
+   93  sudo vi index.html
+   94  ls
+   95  sudo vi index.html
+   96  ls
+   97  git clonehttps://github.com/luizgamaral/liProjetohtml.git
+   98  git clone https://github.com/luizgamaral/liProjetohtml.git
+   99  sudo git clone https://github.com/luizgamaral/liProjetohtml.git
+  100  cd liProjetohtml/
+  101  exit
+  102  ls
+  103  cd /var/www/html
+  104  ls
+  105  cd liProjetohtml/
+  106  cd ..
+  107  clear
+  108  ls
+  109  pwd
+  110  ls
+  111  cd
+  112  cd .
+  113  ls
+  114  cd Desktop
+  115  exit
+  116  ps
+  117  mkdir a
+  118  cd a
+  119  echo "abcd" > ab.txt
+  120  ls
+  121  vim ab.txt 
+  122  cat ab.txt
+  123  cd ..
+  124  rm -r a
+  125  ls
+  126  clear
+  127  pwd
+  128  git clone https://github.com/luizgamaral/LI2025-Teste03.git
+  129  ls
+  130  cd LI2025-Teste03/
+  131  mkdir A-131727
+  132  ls
+  133  cd A-131727/
+  134  touch README.md
+  135  echo "Teste de LI 2025/2026" > README.md
+  136  cat README.md 
+  137  git status
+  138  git add .
+  139  git status
+  140  git commit -a
+  141  git push origin main
+  142  git remote add origin https://github.com/luizgamaral/LI2025-Teste03.git
+  143  git push origin
+  144  git branch -M main
+  145  git remote add origin https://github.com/luizgamaral/LI2025-Teste03.git
+  146  git push -u origin main
+  147  git status
+  148  git remote add origin https://github.com/luizgamaral/LI2025-Teste03.git
+  149  git push origin main
+  150  ls
+  151  git status
+  152  git branch --unset-upstream
+  153  git status
+  154  git remote add origin https://github.com/luizgamaral/LI2025-Teste03.git
+  155  git push -u origin main
+  156  git config --global --edit
+  157  ls
+  158  clear
+  159  ls
+  160  cd LI2025-Teste03/
+  161  ls
+  162  cd A-131727/
+  163  ls
+  164  git status
+  165  git push origin main
+  166  git pull origin main
+  167  ls
+  168  exit
+  169  ls
+  170  rm -r LI2025-Teste03/
+  171  ls
+  172  sudo rm -r LI2025-Teste03/
+  173  ls
+  174  clear
+  175  pwd
+  176  git clone https://github.com/luizgamaral/LI2025-Teste03.git
+  177  ls
+  178  cd LI2025-Teste03/
+  179  mkdir A131727
+  180  ls
+  181  mv README.md A131727/
+  182  ls
+  183  cd A131727/
+  184  ls
+  185  echo "Teste de LI 2025/2026" > README.md 
+  186  cat README.md 
+  187  cd ...
+  188  cd ..
+  189  git add .
+  190  git commit -m "2ª tarefa concluída"
+  191  git push origin main
+  192  ls
+  193  git ..
+  194  cd ..
+  195  ls
+  196  cd LI2025-Teste03/
+  197  CD A131727/
+  198  cd A131727/
+  199  ls
+  200  cd ..
+  201  git pull
+  202  git pull https://github.com/luizgamaral/LI2025-Teste03.git
+  203  cd LI2025-Teste03/
+  204  cd A131727/
+  205  git add disciplinas.html
+  206  cd ..
+  207  git remote -v
+  208  git pull origin 
+  209  ls
+  210  cd A131727/
+  211  ls
+  212  touch a.txt
+  213  rm a.txt
+  214  git add .
+  215  git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+  216  ls
+  217  git push origin main
+  218  touch a.txt
+  219  git add .
+  220  git commit -m "Criado ficheiro disciplinas.html a partir do ficheiro index.html"
+  221  git push origin main
+  222  clear
+  223  git pull origin main
+  224  history > meusComandosAzure.txt
+  225  ls
+  226  cat meusComandosAzure.txt
+  227  vim meusComandosAzure.txt 
+  228  git add . && git commit -m "history azure" && git push origin main
+  229  clear
+  230  cd ..
+  231  exit
+  232  pwd
+  233  ls
+  234  git clone https://github.com/luizgamaral/LI2025-Teste04.git
+  235  cd LI2025-Teste04
+  236  ls
+  237  mkdir js
+  238  mkdir css
+  239  l
+  240  ls
+  241  cd js
+  242  touch script.js
+  243  ls
+  244  echo "//ficheiro de script" > script.js 
+  245  cat script.js 
+  246  cd ..
+  247  cd css
+  248  ls
+  249  touch style.css
+  250  cd ..
+  251  history > cmdsTarefa2.txt
